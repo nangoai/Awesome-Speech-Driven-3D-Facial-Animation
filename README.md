@@ -8,13 +8,15 @@ This is a repository for organizing papres, codes and other resources related to
 
 ------
 
-[[ECCV 2024](https://arxiv.org/abs/2409.01113)] KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding; [Github](https://github.com/ffxzh/KMTalk); 
+[[arXiv 2025](https://arxiv.org/abs/2504.13386)] Supervising 3D Talking Head Avatars with Analysis-by-Audio-Synthesis
 
-[[ECCV 2024](https://arxiv.org/abs/2403.10942)] ScanTalk: 3D Talking Heads from Unregistered Scans; [Github](https://github.com/miccunifi/ScanTalk); [Project](https://fedenoce.github.io/scantalk/)
+[[ECCV 2024](https://arxiv.org/abs/2409.01113)] KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding; [Code](https://github.com/ffxzh/KMTalk); 
 
-[[ECCV 2024](https://arxiv.org/abs/2408.00762)] UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model; [Github](https://github.com/X-niper/UniTalker); [Project](https://x-niper.github.io/projects/UniTalker/)
+[[ECCV 2024](https://arxiv.org/abs/2403.10942)] ScanTalk: 3D Talking Heads from Unregistered Scans; [Code](https://github.com/miccunifi/ScanTalk); [Project](https://fedenoce.github.io/scantalk/)
 
-[[CVPR 2023](https://arxiv.org/abs/2301.02379)] CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior; [Github](https://github.com/Doubiiu/CodeTalker); [Project](https://doubiiu.github.io/projects/codetalker/)
+[[ECCV 2024](https://arxiv.org/abs/2408.00762)] UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model; [Code](https://github.com/X-niper/UniTalker); [Project](https://x-niper.github.io/projects/UniTalker/)
 
-[[CVPR 2022](https://arxiv.org/abs/2112.05329)] FaceFormer: Speech-Driven 3D Facial Animation with Transformers; [Github](https://github.com/EvelynFan/FaceFormer); [Project](https://evelynfan.github.io/audio2face/)
+[[CVPR 2023](https://arxiv.org/abs/2301.02379)] CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior; [Code](https://github.com/Doubiiu/CodeTalker); [Project](https://doubiiu.github.io/projects/codetalker/)
+
+[[CVPR 2022](https://arxiv.org/abs/2112.05329)] FaceFormer: Speech-Driven 3D Facial Animation with Transformers; [Code](https://github.com/EvelynFan/FaceFormer); [Project](https://evelynfan.github.io/audio2face/)
 
